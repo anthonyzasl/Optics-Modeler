@@ -1,6 +1,6 @@
 # Optics-Modeler
 
-[English](README.en.md)
+[English](README.md)
 
 ## 1. Загальні відомості
 Цей репозиторій містить вихідний код курсового проєкту, розробленого як рішення (Solution) для середовища Visual Studio.

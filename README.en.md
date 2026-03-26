@@ -3,7 +3,7 @@
 [Ukrainian](README.md)
 
 ## 1. General Information
-[cite_start]This repository contains the source code for a term project developed as a Visual Studio Solution[cite: 10].
+This repository contains the source code for a term project developed as a Visual Studio Solution.
 
 * **Solution Name:** kursova 
 * **Project Type:** C# (Visual C# Project)

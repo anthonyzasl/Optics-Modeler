@@ -1,6 +1,6 @@
 # Optics-Modeler
 
-[Ukrainian](README.md)
+[Ukrainian](README.ukr.md)
 
 ## 1. General Information
 This repository contains the source code for a term project developed as a Visual Studio Solution.

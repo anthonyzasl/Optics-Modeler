@@ -34,7 +34,7 @@ The project is organized according to the standard Visual Studio layout:
 To successfully open and compile the project, the following are required:
 
 1. **Software Installed:** Microsoft Visual Studio 2022 (version 17.6 or newer).
-2. **Components:** ".NET desktop development" workload (or equivalent based on your project type).
+2. **Components:** ".NET desktop development" workload.
 
 ### Launch Instructions:
 1. Download or clone the repository.
